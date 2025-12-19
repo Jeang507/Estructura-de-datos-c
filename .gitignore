@@ -1,0 +1,11 @@
+recetas
+recetas.exe
+
+*.o
+*.out
+
+*~
+*.swp
+
+.DS_Store
+Thumbs.db
