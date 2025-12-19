@@ -85,6 +85,6 @@ chmod +x run.sh
 run.bat
 
 
-Autor
+## Autor
 
 Jean Guillén
